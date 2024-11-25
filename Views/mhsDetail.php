@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Latihan MVC - Universitas Ary Ginanjar</title>
+<title>TUGAS MVC - APLIKASI WEB</title>
 <link rel="stylesheet" href="/latihan_week09/assets/css/bootstrap.css" />
 <script type="text/javascript" src="/latihan_week09/assets/js/bootstrap.js"></script>
 </head>
